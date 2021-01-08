@@ -1,0 +1,49 @@
+body{
+	background-color: BlanchedAlmond;
+}
+
+h1{
+	color: CadetBlue;
+	font-size: 45px;
+	text-align: center;
+	font-style: normal;
+	font-family: Garamond;
+}
+
+img{
+	height: 400px;
+	width: 400px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	border: 10px solid LightCyan; 
+	border-radius: 10px;
+}
+
+.p1{
+	text-align: center;
+	font-size: 30px;
+	text-decoration: underline;
+	font-family: Garamond;
+}
+
+.p2{
+	text-align: center;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-family: Garamond;
+}
+
+.p3{
+	text-align: right;
+	font-size: 10px;
+	margin-right: 500px;
+	font-family: Garamond;
+}
+
+.p4{
+	text-align: center;
+	margin-left: 500px;
+	margin-right: 500px;
+	font-family: Garamond ;
+}
